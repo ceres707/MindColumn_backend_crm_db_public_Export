@@ -1,8 +1,8 @@
 # MindColumn_backend_crm_db_public_Export
 Experimental: MindColumn db Imagined forms of transpiling to other database scripts
 
-**Boilerplate made with 2026 best practices, old-tech, new lang**
-This is alpha, just started, but _far reaching_
+**Boilerplate made with 2026 best practices, old-tech, new lang**\
+This is alpha, just started, but _far reaching_\
 From now on everything is going to be a grammar, DSL first —meaning:
 
 * Input-to-output data verification ➔ grammar
