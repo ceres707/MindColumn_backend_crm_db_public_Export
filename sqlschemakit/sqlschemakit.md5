@@ -1,0 +1,14 @@
+f681dabce499c902ece8907a8b43834a *clean.bat
+831475e93b7b0e794b3778f6fa219e92 *go.mod
+38cab13bf9b2274febf6330fde5d20af *install.bat
+019fa98179032122492a16e0bd1b297b *run1.bat
+d373812b1f880f679383717c18b085bb *run2.bat
+fe9a265690fc67cf56b5b34fe61994c4 *runv.bat
+580391043866860f4d5c2ac2a888736d *cmd\ddlcheck\main.go
+b1c648d11fbfdbfbc5d1f1e7460b3f47 *sqlemit\duckdb.go
+2e3d81b75d34371a538733ed8a9623c5 *sqlemit\emit.go
+e45adf430efe37741a64b91a0493a73a *sqllint\lint.go
+0fb8253966595140924f6e3696a1b377 *sqlschema\api.go
+08aec7efa6fb08b89d88633804020199 *sqlschema\ast.go
+c444dcf5d345efa9064dec6bda7da380 *sqlschema\grammar.y
+70df40785cfe9c67cfe7cd7379cb6573 *sqlschema\lexer.go
